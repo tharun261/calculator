@@ -1,2 +1,2 @@
-# calculator1
+# calculator
 A responsive calculator web application developed using HTML, CSS, and JavaScript with basic arithmetic operations.
